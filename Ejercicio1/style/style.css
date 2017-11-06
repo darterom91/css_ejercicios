@@ -1,0 +1,51 @@
+*{
+font-size: 12px;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+}
+
+h1#titulo{
+  text-align: left;
+  color: turquoise;
+  font-size: 2.5em;
+}
+
+#subtitulo{
+  color: darkblue;
+  font-size: 2em;
+}
+
+p{
+  font-size: 1.2em;
+}
+
+p strong{
+  color:red;
+  font-size: 1.25em;
+}
+
+span.destacado{
+  color : orange;
+}
+
+p a{
+ color: red;
+}
+
+a em{
+  color:green;
+}
+
+table caption{
+  color:blue;
+}
+
+thead th{
+  border-style:solid;
+  border-color: inherit;
+  border-width:1px;
+  color:black;
+}
